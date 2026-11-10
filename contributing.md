@@ -139,4 +139,4 @@ noticed — both by other players and by the anti-cheat.
 
 ---
 
-*valorant-utility-pack · Updated 2026-11-09 · Shared under the MIT License*
+*valorant-utility-pack · Updated 2026-11-10 · Shared under the MIT License*
